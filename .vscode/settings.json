@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "onFocusChange",
+    "eslint.options": {
+        "reportUnusedDisableDirectives": "error"
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "typescript.tsdk": "node_modules/typescript/lib"
+}

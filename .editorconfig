@@ -1,0 +1,7 @@
+# Mark this as the root editorconfig file
+root = true
+
+# Base ruleset for all files
+[*]
+trim_trailing_whitespace = true
+insert_final_newline = true

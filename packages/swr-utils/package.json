@@ -1,0 +1,15 @@
+{
+    "name": "@finesoftware/swr-utils",
+    "version": "0.0.6",
+    "main": "src/index.tsx",
+    "sideEffects": false,
+    "dependencies": {
+        "lodash": "^4.17.21",
+        "react": "^17.0.2",
+        "swr": "^1.2.2",
+        "type-fest": "^2.12.1"
+    },
+    "scripts": {
+        "prepack": "yarn gfm-prepack"
+    }
+}

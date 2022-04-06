@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "rangeStrategy": "bump",
+  "prHourlyLimit": 0,
+  "prConcurrentLimit": 0,
+  "schedule": ["on friday"]
+}

@@ -1,0 +1,18 @@
+{
+    "packages": [
+        {
+            "name": "**/*",
+            "license": "Apache-2.0",
+            "repository": {
+                "type": "git",
+                "url": "https://github.com/finesoftware/forge-dev-kit"
+            },
+            "author": "Fine Software",
+            "bugs": {
+                "url": "https://github.com/finesoftware/forge-dev-kit/issues"
+            },
+            "homepage": "https://fine.software/forge-dev-kit"
+        }
+    ],
+    "licenseFile": "LICENSE"
+}

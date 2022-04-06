@@ -1,0 +1,16 @@
+{
+    "name": "@finesoftware/forge-dev-kit",
+    "version": "0.0.23",
+    "sideEffects": false,
+    "bin": "./dist/index.js",
+    "type": "module",
+    "dependencies": {
+        "globby": "^13.1.1",
+        "inquirer": "^8.2.2",
+        "lodash": "^4.17.21",
+        "zx": "^4.3.0"
+    },
+    "scripts": {
+        "prepack": "yarn run ts-node scripts/pre-prepack.tsx && yarn gfm-prepack"
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "EditorConfig.EditorConfig",
+    "styled-components.vscode-styled-components",
+    "pkief.material-icon-theme"
+  ]
+}

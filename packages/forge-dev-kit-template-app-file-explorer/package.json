@@ -1,0 +1,24 @@
+{
+  "name": "@finesoftware/forge-dev-kit-template-app-file-explorer",
+  "version": "0.0.8",
+  "private": true,
+  "sideEffects": false,
+  "dependencies": {
+    "@atlaskit/theme": "^12.1.5",
+    "@emotion/core": "^10.3.1",
+    "@finesoftware/forge-jira-api": "0.0.7",
+    "@finesoftware/react-forge": "0.0.6",
+    "@finesoftware/react-forge-jira": "0.0.8"
+  },
+  "fdk": {
+    "title": "Jira example app",
+    "description": "A simple attachments browser for Jira projects",
+    "supportedModuleTypes": [
+      "jira:projectPage"
+    ],
+    "orderWeight": 1,
+    "requiredScopes": [
+      "read:jira-work"
+    ]
+  }
+}
