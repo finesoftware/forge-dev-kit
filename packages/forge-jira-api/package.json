@@ -1,6 +1,6 @@
 {
     "name": "@finesoftware/forge-jira-api",
-    "version": "0.0.7",
+    "version": "0.1.0",
     "main": "src/index.tsx",
     "sideEffects": false,
     "dependencies": {
