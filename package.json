@@ -29,7 +29,7 @@
     "react-sweet-state": "^2.6.0",
     "swr": "^1.2.2",
     "ts-node": "^10.7.0",
-    "tslib": "^2.3.1",
+    "tslib": "^2.4.0",
     "type-fest": "^2.12.2",
     "typescript": "^4.6.3",
     "zx": "^4.3.0"
