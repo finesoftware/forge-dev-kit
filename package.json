@@ -19,7 +19,7 @@
     "@types/react-dom": "^17.0.14",
     "babel-plugin-emotion": "^10.2.2",
     "globby": "^13.1.1",
-    "inquirer": "^8.2.2",
+    "inquirer": "^8.2.4",
     "lodash": "^4.17.21",
     "next": "^12.1.1",
     "next-images": "^1.8.4",
