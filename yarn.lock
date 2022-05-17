@@ -46,6 +46,13 @@
   dependencies:
     "@babel/runtime" "^7.0.0"
 
+"@atlaskit/codemod-utils@^4.0.0":
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/@atlaskit/codemod-utils/-/codemod-utils-4.0.2.tgz#d056a76b75d1eb1b608153dc7aca6633d42fb5de"
+  integrity sha512-ZtqGcmCG3xYz7/mctJWJKP6IIuZg+i8o+Y8rePEhE7JppKGQ9yVlBh7L8pdalKrv+YkGVyWbFBCKl3q6O1DXpQ==
+  dependencies:
+    "@babel/runtime" "^7.0.0"
+
 "@atlaskit/css-reset@^6.3.9":
   version "6.3.9"
   resolved "https://registry.yarnpkg.com/@atlaskit/css-reset/-/css-reset-6.3.9.tgz#afecb17c1148bb9eec525491bb815d29dc13dee0"
@@ -73,7 +80,7 @@
     "@babel/runtime" "^7.0.0"
     "@emotion/core" "^10.0.9"
 
-"@atlaskit/theme@^12.1.0", "@atlaskit/theme@^12.1.5":
+"@atlaskit/theme@^12.1.0":
   version "12.1.5"
   resolved "https://registry.yarnpkg.com/@atlaskit/theme/-/theme-12.1.5.tgz#3607c902f6f50f618f66c82efdf63d9258ae3c7e"
   integrity sha512-0IgjQrAatMsMb1G+dGMcq3SI5TfXvs8/iuAZrp6k4GrFifdnjS1oszKpv2DPomogT9mqrkW0QJrVwgLRxutrMQ==
@@ -82,6 +89,26 @@
     "@atlaskit/ds-lib" "^1.4.0"
     "@atlaskit/tokens" "^0.8.0"
     "@babel/runtime" "^7.0.0"
+
+"@atlaskit/theme@^12.1.8":
+  version "12.1.8"
+  resolved "https://registry.yarnpkg.com/@atlaskit/theme/-/theme-12.1.8.tgz#4f93a8f605b34d1a45ec617b35f7d46b5b759ce2"
+  integrity sha512-73ACoF+WVHPI4RaiaBcGlKeMNRJxZnYNI5vu5us5oCTIiDebv6ZQkbuqbhrD6at5luBUZlZupe3CTaPTb34BkQ==
+  dependencies:
+    "@atlaskit/codemod-utils" "^4.0.0"
+    "@atlaskit/ds-lib" "^1.4.0"
+    "@atlaskit/tokens" "^0.10.0"
+    "@babel/runtime" "^7.0.0"
+
+"@atlaskit/tokens@^0.10.0":
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/@atlaskit/tokens/-/tokens-0.10.0.tgz#34339915b5d9423f3065b4801b050145f6d04ed2"
+  integrity sha512-y7ClaaFbLSpnS1hwfgkU12vdHY+aZ2h/1DrA/CIPo2yThEirSOhtpTgU6nITnZTKGjNd2oIVvUodK5UZwXAUFA==
+  dependencies:
+    "@atlaskit/ds-lib" "^1.4.0"
+    "@babel/runtime" "^7.0.0"
+    "@babel/traverse" "^7.15.0"
+    "@babel/types" "^7.15.0"
 
 "@atlaskit/tokens@^0.8.0":
   version "0.8.3"
