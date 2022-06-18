@@ -5,7 +5,7 @@
     "sideEffects": false,
     "dependencies": {
         "lodash": "^4.17.21",
-        "react": "^17.0.2",
+        "react": "^18.2.0",
         "swr": "^1.2.2",
         "type-fest": "^2.12.2"
     },
