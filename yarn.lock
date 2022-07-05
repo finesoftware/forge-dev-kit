@@ -666,10 +666,10 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@forge/bridge@^2.2.0":
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/@forge/bridge/-/bridge-2.2.0.tgz#4d984d69deabacd4b268b14f376d0df8f9baf168"
-  integrity sha512-0suScLW4TBTWGUlv7O7UjvNknZVEg+xxUCC5suvOAEDNiF9qknM3S6ArAhmY4fCNdgTuhMzHXoH36E07WQNc+g==
+"@forge/bridge@^2.4.0":
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/@forge/bridge/-/bridge-2.4.0.tgz#6542a1bd5ad400002254a5cf755850fbcec55cee"
+  integrity sha512-ySILbSdJsCPLwQyL+ctZADo8EVjQXya0gjKMUmXSTlts9SgL5W4QgmT8ac1ZWxUDpvhGsaC7txQIsOWRzqAlSA==
   dependencies:
     "@types/history" "^4.7.8"
 
