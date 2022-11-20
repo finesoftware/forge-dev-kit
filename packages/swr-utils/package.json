@@ -7,7 +7,7 @@
         "lodash": "^4.17.21",
         "react": "^17.0.2",
         "swr": "^1.2.2",
-        "type-fest": "^2.12.2"
+        "type-fest": "^2.19.0"
     },
     "scripts": {
         "prepack": "yarn gfm-prepack"
