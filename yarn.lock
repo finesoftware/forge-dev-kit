@@ -46,6 +46,13 @@
   dependencies:
     "@babel/runtime" "^7.0.0"
 
+"@atlaskit/codemod-utils@^4.1.0":
+  version "4.1.3"
+  resolved "https://registry.yarnpkg.com/@atlaskit/codemod-utils/-/codemod-utils-4.1.3.tgz#bcc7ff725ac153684a366fc54ab1f532a531d811"
+  integrity sha512-KQ4e5DGPth2UskAsrFE3kmeVWJST2BgXABGExXnnO1LbnIPNBP/cnemVN1Pzw2JELMXyHTCeUZAoHxVcAYtD0g==
+  dependencies:
+    "@babel/runtime" "^7.0.0"
+
 "@atlaskit/css-reset@^6.3.9":
   version "6.3.9"
   resolved "https://registry.yarnpkg.com/@atlaskit/css-reset/-/css-reset-6.3.9.tgz#afecb17c1148bb9eec525491bb815d29dc13dee0"
@@ -63,6 +70,14 @@
   dependencies:
     "@babel/runtime" "^7.0.0"
 
+"@atlaskit/ds-lib@^2.1.0":
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/@atlaskit/ds-lib/-/ds-lib-2.1.2.tgz#469e9b747a07702fea299c80aeab0cdab2cf193c"
+  integrity sha512-fBqL2QmBYrbYSE/SUGdcTipmBFZe1p7faZeJRpq6kzhKui7vLaDeiusvLAbDSjjiHVXUK6SCAEU9jnBwq1T19w==
+  dependencies:
+    "@babel/runtime" "^7.0.0"
+    bind-event-listener "^2.1.1"
+
 "@atlaskit/spinner@^15.1.0":
   version "15.1.8"
   resolved "https://registry.yarnpkg.com/@atlaskit/spinner/-/spinner-15.1.8.tgz#2f9a6bcc084394245134b466412d951c98f26343"
@@ -73,7 +88,7 @@
     "@babel/runtime" "^7.0.0"
     "@emotion/core" "^10.0.9"
 
-"@atlaskit/theme@^12.1.0", "@atlaskit/theme@^12.1.5":
+"@atlaskit/theme@^12.1.0":
   version "12.1.5"
   resolved "https://registry.yarnpkg.com/@atlaskit/theme/-/theme-12.1.5.tgz#3607c902f6f50f618f66c82efdf63d9258ae3c7e"
   integrity sha512-0IgjQrAatMsMb1G+dGMcq3SI5TfXvs8/iuAZrp6k4GrFifdnjS1oszKpv2DPomogT9mqrkW0QJrVwgLRxutrMQ==
@@ -82,6 +97,26 @@
     "@atlaskit/ds-lib" "^1.4.0"
     "@atlaskit/tokens" "^0.8.0"
     "@babel/runtime" "^7.0.0"
+
+"@atlaskit/theme@^12.2.2":
+  version "12.2.2"
+  resolved "https://registry.yarnpkg.com/@atlaskit/theme/-/theme-12.2.2.tgz#b6ccdc4ea45e663903189812588a28cf62789ede"
+  integrity sha512-tv8Kk4NE4uqX0Ga0Hac0oAPqJQSTnYabLBQQWuYLGKeynaS78WWbI9NqFIvh4Nd/rJp+0Qw2/rmASraBEij7Aw==
+  dependencies:
+    "@atlaskit/codemod-utils" "^4.1.0"
+    "@atlaskit/ds-lib" "^2.1.0"
+    "@atlaskit/tokens" "^0.10.0"
+    "@babel/runtime" "^7.0.0"
+
+"@atlaskit/tokens@^0.10.0":
+  version "0.10.35"
+  resolved "https://registry.yarnpkg.com/@atlaskit/tokens/-/tokens-0.10.35.tgz#e46cb9e8b7c82acc0f5317be1ec7a94ac6285ace"
+  integrity sha512-seglalpg7Pcg9wHgxvXNQSPR7coVz7zDNPNItkoLIlagsdDiMeRPf0LRSzEUAquiGdGxjFYvDZ0Bf6r6jwTKrw==
+  dependencies:
+    "@atlaskit/ds-lib" "^2.1.0"
+    "@babel/runtime" "^7.0.0"
+    "@babel/traverse" "^7.15.0"
+    "@babel/types" "^7.15.0"
 
 "@atlaskit/tokens@^0.8.0":
   version "0.8.3"
@@ -1310,6 +1345,11 @@ big.js@^5.2.2:
   version "5.2.2"
   resolved "https://registry.yarnpkg.com/big.js/-/big.js-5.2.2.tgz#65f0af382f578bcdc742bd9c281e9cb2d7768328"
   integrity sha512-vyL2OymJxmarO8gxMr0mhChsO9QGwhynfuu4+MHTAW6czfq9humCB7rKpUjDd9YUiDPU4mzpyupFSvOClAwbmQ==
+
+bind-event-listener@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/bind-event-listener/-/bind-event-listener-2.1.1.tgz#5e57290181af3027ff53ba6109e417a1e3cbb6f3"
+  integrity sha512-O+a5c0D2se/u2VlBJmPRn45IB6R4mYMh1ok3dWxrIZ2pmLqzggBhb875mbq73508ylzofc0+hT9W41x4Y2s8lg==
 
 bl@^4.1.0:
   version "4.1.0"
