@@ -3430,10 +3430,12 @@ react-is@^16.13.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-sweet-state@^2.6.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/react-sweet-state/-/react-sweet-state-2.6.0.tgz#cf08aa5162d2ede41bcd86e192fcbd0255906b50"
-  integrity sha512-oASS1C8n0QnQPiXwwGQSruNkC/U704cipCQH8KpCGzbdm5yHoCwNMdkn7tkCcq+h8fO+2GeSCuhhOkSt1lKA9Q==
+react-sweet-state@^2.6.5:
+  version "2.6.5"
+  resolved "https://registry.yarnpkg.com/react-sweet-state/-/react-sweet-state-2.6.5.tgz#462d9fec194420762c9a496c9b337346d908ad59"
+  integrity sha512-PN/B2cZkItpWkYZDzf9RXnGDkKTv8ZLzxgLCI6J+N/RcM4J0E5uFAwmbIXlK2JDoMDZU/g+Z5tYiOVeZfDIfRQ==
+  dependencies:
+    use-sync-external-store "^1.0.0"
 
 react@^17.0.2:
   version "17.0.2"
@@ -4082,7 +4084,7 @@ use-memo-one@^1.1.1:
   resolved "https://registry.yarnpkg.com/use-memo-one/-/use-memo-one-1.1.2.tgz#0c8203a329f76e040047a35a1197defe342fab20"
   integrity sha512-u2qFKtxLsia/r8qG0ZKkbytbztzRb317XCkT7yP8wxL0tZ/CzK2G+WWie5vWvpyeP7+YoPIwbJoIHJ4Ba4k0oQ==
 
-use-sync-external-store@1.2.0:
+use-sync-external-store@1.2.0, use-sync-external-store@^1.0.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/use-sync-external-store/-/use-sync-external-store-1.2.0.tgz#7dbefd6ef3fe4e767a0cf5d7287aacfb5846928a"
   integrity sha512-eEgnFxGQ1Ife9bzYs6VLi8/4X6CObHMw9Qr9tPY43iKwsPw8xE8+EFsf/2cFZ5S3esXgpWgtSCtLNS41F+sKPA==
