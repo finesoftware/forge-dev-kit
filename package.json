@@ -7,7 +7,7 @@
     "@atlaskit/css-reset": "^6.3.20",
     "@atlaskit/theme": "^12.2.2",
     "@babel/preset-react": "^7.16.7",
-    "@changesets/cli": "^2.22.0",
+    "@changesets/cli": "^2.26.0",
     "@emotion/core": "^10.3.1",
     "@forge/bridge": "^2.4.0",
     "@gfm-repo/eslint-config-generator": "^0.1.1",
