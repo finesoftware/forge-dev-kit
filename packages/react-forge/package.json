@@ -4,7 +4,7 @@
     "main": "src/index.tsx",
     "sideEffects": false,
     "dependencies": {
-        "@atlaskit/button": "^16.2.1",
+        "@atlaskit/button": "^16.5.6",
         "@emotion/core": "^10.3.1",
         "@forge/bridge": "^2.4.0",
         "react": "^17.0.2",
