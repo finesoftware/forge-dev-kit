@@ -144,9 +144,17 @@ const run = async () => {
         ...selectedApp.packageJson.dependencies,
     };
 
-    const combinedDependenciesWithFixedVersions = _.mapValues(combinedDependencies, (version) =>
-        version.startsWith('^') ? version : `^${version}`,
-    );
+    const combinedDependenciesWithFixedVersions: Record<string, string> = {};
+
+    Object.entries(combinedDependencies).forEach(([dependency, version]) => {
+        if (!version) {
+            return; // shouldn't ever happen
+        }
+
+        combinedDependenciesWithFixedVersions[dependency] = version.startsWith('^')
+            ? version
+            : `^${version}`;
+    });
 
     const combinedPackageJson = {
         ...template.packageJson,
