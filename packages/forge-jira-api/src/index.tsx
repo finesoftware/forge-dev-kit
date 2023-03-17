@@ -68,3 +68,4 @@ export type { Issue, IssueSearchResult, IssuePickerResult } from './types/issues
 // export type {  } from './types/jql';
 export type { Priority } from './types/priorities';
 export type { ProjectBasics, Project } from './types/projects';
+export type { User } from './types/users';

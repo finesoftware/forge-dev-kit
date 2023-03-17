@@ -1,5 +1,11 @@
 # @finesoftware/forge-jira-api
 
+## 0.2.0
+
+### Minor Changes
+
+-   Expose user type, add thumbnail property to attachment type
+
 ## 0.1.1
 
 ### Patch Changes

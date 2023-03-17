@@ -8,4 +8,5 @@ export type Attachment = {
     size: number;
     created: string;
     author: User;
+    thumbnail?: string;
 };

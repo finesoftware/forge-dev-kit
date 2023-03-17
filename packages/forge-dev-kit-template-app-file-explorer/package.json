@@ -1,14 +1,14 @@
 {
   "name": "@finesoftware/forge-dev-kit-template-app-file-explorer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "sideEffects": false,
   "dependencies": {
     "@atlaskit/theme": "^12.2.2",
     "@emotion/core": "^10.3.1",
-    "@finesoftware/forge-jira-api": "0.1.1",
+    "@finesoftware/forge-jira-api": "0.2.0",
     "@finesoftware/react-forge": "0.1.1",
-    "@finesoftware/react-forge-jira": "1.0.0"
+    "@finesoftware/react-forge-jira": "1.0.1"
   },
   "fdk": {
     "title": "Jira example app",

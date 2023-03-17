@@ -1,10 +1,10 @@
 {
     "name": "@finesoftware/react-forge-jira",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "src/index.tsx",
     "sideEffects": false,
     "dependencies": {
-        "@finesoftware/forge-jira-api": "0.1.1",
+        "@finesoftware/forge-jira-api": "0.2.0",
         "@finesoftware/react-forge": "0.1.1",
         "@finesoftware/swr-utils": "1.0.0"
     },
