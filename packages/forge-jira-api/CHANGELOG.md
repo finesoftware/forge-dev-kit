@@ -1,5 +1,11 @@
 # @finesoftware/forge-jira-api
 
+## 0.3.0
+
+### Minor Changes
+
+-   Add deleteAttachment method
+
 ## 0.2.0
 
 ### Minor Changes

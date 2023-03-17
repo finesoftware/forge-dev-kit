@@ -1,5 +1,12 @@
 # @finesoftware/react-forge-jira
 
+## 1.0.2
+
+### Patch Changes
+
+-   Updated dependencies
+    -   @finesoftware/forge-jira-api@0.3.0
+
 ## 1.0.1
 
 ### Patch Changes
