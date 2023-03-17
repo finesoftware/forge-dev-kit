@@ -4,6 +4,7 @@ export { addComment } from './requests/add-comment';
 export { createIssue } from './requests/create-issue';
 export { createIssueLink } from './requests/create-issue-link';
 export { createIssueLinkType } from './requests/create-issue-link-type';
+export { deleteAttachment } from './requests/delete-attachment';
 export { deleteComment } from './requests/delete-comment';
 export { deleteIssue } from './requests/delete-issue';
 export { deleteIssueLink } from './requests/delete-issue-link';
