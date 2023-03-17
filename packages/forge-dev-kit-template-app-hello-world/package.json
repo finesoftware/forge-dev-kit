@@ -1,11 +1,11 @@
 {
   "name": "@finesoftware/forge-dev-kit-template-app-hello-world",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "sideEffects": false,
   "dependencies": {
     "@emotion/core": "^10.3.1",
-    "@finesoftware/react-forge": "0.1.0"
+    "@finesoftware/react-forge": "0.1.1"
   },
   "fdk": {
     "title": "Hello world",

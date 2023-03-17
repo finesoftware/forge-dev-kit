@@ -1,5 +1,20 @@
 # @finesoftware/react-forge-jira
 
+## 1.0.0
+
+### Major Changes
+
+-   Upgrade to SWR 2.0
+
+### Patch Changes
+
+-   Various dependency bumps
+-   Updated dependencies
+-   Updated dependencies
+    -   @finesoftware/forge-jira-api@0.1.1
+    -   @finesoftware/react-forge@0.1.1
+    -   @finesoftware/swr-utils@1.0.0
+
 ## 0.1.0
 
 ### Minor Changes
