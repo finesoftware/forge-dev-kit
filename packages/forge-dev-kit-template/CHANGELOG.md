@@ -1,5 +1,13 @@
 # @finesoftware/forge-dev-kit-template
 
+## 0.1.4
+
+### Patch Changes
+
+-   Updated dependencies
+    -   @finesoftware/forge-jira-api@0.3.1
+    -   @finesoftware/react-forge-jira@1.0.3
+
 ## 0.1.3
 
 ### Patch Changes

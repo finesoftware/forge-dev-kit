@@ -1,5 +1,11 @@
 # @finesoftware/forge-jira-api
 
+## 0.3.1
+
+### Patch Changes
+
+-   Fix exception for 204 (no content) returns
+
 ## 0.3.0
 
 ### Minor Changes
