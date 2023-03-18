@@ -31,7 +31,7 @@ export const request: Request = async <TResult extends unknown>(
 ) => {
     const result = await performRequest(url, options);
 
-    const body = result.bodyUsed ? await result.json() : undefined;
+    const body = result.body ? await result.json() : undefined;
 
     if (!result.ok) {
         if (isErrorResponse(body)) {

@@ -1,5 +1,13 @@
 # @finesoftware/forge-dev-kit-template-app-file-explorer
 
+## 0.1.5
+
+### Patch Changes
+
+-   Updated dependencies
+    -   @finesoftware/forge-jira-api@0.3.2
+    -   @finesoftware/react-forge-jira@1.0.4
+
 ## 0.1.4
 
 ### Patch Changes

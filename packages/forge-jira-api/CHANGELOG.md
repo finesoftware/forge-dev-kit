@@ -1,5 +1,11 @@
 # @finesoftware/forge-jira-api
 
+## 0.3.2
+
+### Patch Changes
+
+-   Fix no content regression
+
 ## 0.3.1
 
 ### Patch Changes
