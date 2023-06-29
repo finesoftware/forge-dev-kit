@@ -4,7 +4,7 @@
   "private": true,
   "sideEffects": false,
   "dependencies": {
-    "@emotion/core": "^10.3.1",
+    "@emotion/core": "^11.0.0",
     "@finesoftware/react-forge": "0.2.0"
   },
   "fdk": {

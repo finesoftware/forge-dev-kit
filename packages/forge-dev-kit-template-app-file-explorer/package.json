@@ -5,7 +5,7 @@
   "sideEffects": false,
   "dependencies": {
     "@atlaskit/theme": "^12.5.4",
-    "@emotion/core": "^10.3.1",
+    "@emotion/core": "^11.0.0",
     "@finesoftware/forge-jira-api": "0.4.0",
     "@finesoftware/react-forge": "0.2.0",
     "@finesoftware/react-forge-jira": "1.0.5"
