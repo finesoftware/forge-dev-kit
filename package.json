@@ -36,7 +36,7 @@
   },
   "resolutions": {
     "react": "^17.0.2",
-    "prettier": "^2.8.4"
+    "prettier": "^2.8.8"
   },
   "workspaces": {
     "packages": [
