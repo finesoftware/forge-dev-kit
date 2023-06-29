@@ -126,17 +126,7 @@
     "@atlaskit/tokens" "^1.2.0"
     "@babel/runtime" "^7.0.0"
 
-"@atlaskit/theme@^12.2.2":
-  version "12.2.2"
-  resolved "https://registry.yarnpkg.com/@atlaskit/theme/-/theme-12.2.2.tgz#b6ccdc4ea45e663903189812588a28cf62789ede"
-  integrity sha512-tv8Kk4NE4uqX0Ga0Hac0oAPqJQSTnYabLBQQWuYLGKeynaS78WWbI9NqFIvh4Nd/rJp+0Qw2/rmASraBEij7Aw==
-  dependencies:
-    "@atlaskit/codemod-utils" "^4.1.0"
-    "@atlaskit/ds-lib" "^2.1.0"
-    "@atlaskit/tokens" "^0.10.0"
-    "@babel/runtime" "^7.0.0"
-
-"@atlaskit/theme@^12.5.0":
+"@atlaskit/theme@^12.5.0", "@atlaskit/theme@^12.5.4":
   version "12.5.4"
   resolved "https://registry.yarnpkg.com/@atlaskit/theme/-/theme-12.5.4.tgz#dfc13a792099335c26fc3a4379f33eb563f0c0bd"
   integrity sha512-ukn8YOZJFXYx2DHvQ/AXSBqeidSa83R4H5NMerSqMqB24wGCRJ1HrK9zuKtT/ZMtRed0c7+Adk4Hn+ab3YL61w==
@@ -145,16 +135,6 @@
     "@atlaskit/ds-lib" "^2.2.0"
     "@atlaskit/tokens" "^1.4.0"
     "@babel/runtime" "^7.0.0"
-
-"@atlaskit/tokens@^0.10.0":
-  version "0.10.35"
-  resolved "https://registry.yarnpkg.com/@atlaskit/tokens/-/tokens-0.10.35.tgz#e46cb9e8b7c82acc0f5317be1ec7a94ac6285ace"
-  integrity sha512-seglalpg7Pcg9wHgxvXNQSPR7coVz7zDNPNItkoLIlagsdDiMeRPf0LRSzEUAquiGdGxjFYvDZ0Bf6r6jwTKrw==
-  dependencies:
-    "@atlaskit/ds-lib" "^2.1.0"
-    "@babel/runtime" "^7.0.0"
-    "@babel/traverse" "^7.15.0"
-    "@babel/types" "^7.15.0"
 
 "@atlaskit/tokens@^1.0.0", "@atlaskit/tokens@^1.2.0":
   version "1.2.1"
