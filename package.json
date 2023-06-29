@@ -9,7 +9,7 @@
     "@babel/preset-react": "^7.18.6",
     "@changesets/cli": "^2.26.0",
     "@emotion/core": "^10.3.1",
-    "@forge/bridge": "^2.4.0",
+    "@forge/bridge": "^2.6.0",
     "@gfm-repo/eslint-config-generator": "^0.1.1",
     "@gfm-repo/prepack": "^0.1.9",
     "@types/inquirer": "^8.2.6",
