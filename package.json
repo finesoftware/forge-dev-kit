@@ -27,7 +27,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-sweet-state": "^2.6.5",
-    "swr": "^2.1.0",
+    "swr": "^2.2.0",
     "ts-node": "^10.9.1",
     "tslib": "^2.5.0",
     "type-fest": "^3.12.0",
