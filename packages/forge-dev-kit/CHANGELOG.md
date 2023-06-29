@@ -1,5 +1,11 @@
 # @finesoftware/forge-dev-kit
 
+## 0.1.2
+
+### Patch Changes
+
+-   Various dependency bumps
+
 ## 0.1.1
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @finesoftware/forge-jira-api
 
+## 0.4.0
+
+### Minor Changes
+
+-   Bump Atlassian dependencies
+
 ## 0.3.2
 
 ### Patch Changes

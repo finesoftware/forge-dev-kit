@@ -1,5 +1,11 @@
 # @finesoftware/react-forge
 
+## 0.2.0
+
+### Minor Changes
+
+-   Bump Atlassian dependencies
+
 ## 0.1.1
 
 ### Patch Changes

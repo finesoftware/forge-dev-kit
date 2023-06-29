@@ -1,12 +1,12 @@
 {
     "name": "@finesoftware/react-forge-jira",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "main": "src/index.tsx",
     "sideEffects": false,
     "dependencies": {
-        "@finesoftware/forge-jira-api": "0.3.2",
-        "@finesoftware/react-forge": "0.1.1",
-        "@finesoftware/swr-utils": "1.0.0"
+        "@finesoftware/forge-jira-api": "0.4.0",
+        "@finesoftware/react-forge": "0.2.0",
+        "@finesoftware/swr-utils": "1.1.0"
     },
     "scripts": {
         "prepack": "yarn gfm-prepack"
