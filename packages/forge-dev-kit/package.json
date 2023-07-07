@@ -8,7 +8,7 @@
         "globby": "^13.2.0",
         "inquirer": "^8.2.5",
         "lodash": "^4.17.21",
-        "zx": "^7.2.2"
+        "zx": "^7.2.3"
     },
     "scripts": {
         "prepack": "yarn run ts-node scripts/pre-prepack.tsx && yarn gfm-prepack"
