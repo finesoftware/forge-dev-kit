@@ -914,10 +914,10 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@forge/bridge@^2.6.0":
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/@forge/bridge/-/bridge-2.6.0.tgz#ba83161c6a2d2139bf91dc9bcd8e491718143dc3"
-  integrity sha512-DNzRCR1UUYU7Mob0WoSGFQrxOt7akeTB+yZppxpBHNkosTnP+CXK39hWIf2huzQBZOsh7baE8oeJFcspzv+H+w==
+"@forge/bridge@^2.6.1":
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/@forge/bridge/-/bridge-2.6.1.tgz#530898d5eb035ece83f3141374fc291db2183b07"
+  integrity sha512-Z4+TO5H4B9PGdEqVx0GIa0ee6RnD6SWNG8J3qrDwWKH68AYQCl72kamhHP08hyjWKO9pP49Y1jLjmO587OiCUA==
   dependencies:
     "@types/history" "^4.7.11"
 
