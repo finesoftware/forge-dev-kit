@@ -4006,10 +4006,10 @@ react-is@^16.13.1, react-is@^16.7.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-sweet-state@^2.6.5:
-  version "2.6.5"
-  resolved "https://registry.yarnpkg.com/react-sweet-state/-/react-sweet-state-2.6.5.tgz#462d9fec194420762c9a496c9b337346d908ad59"
-  integrity sha512-PN/B2cZkItpWkYZDzf9RXnGDkKTv8ZLzxgLCI6J+N/RcM4J0E5uFAwmbIXlK2JDoMDZU/g+Z5tYiOVeZfDIfRQ==
+react-sweet-state@^2.7.2:
+  version "2.7.2"
+  resolved "https://registry.yarnpkg.com/react-sweet-state/-/react-sweet-state-2.7.2.tgz#949932ec6bcb426f00fdc2b0693ff6be17536873"
+  integrity sha512-IklOKRyWb3pU9GFmNaFpK21gChRGciveG0amrxknWcK1m1iXovjnuM4zAaTxJI6TsIIR2JdQ8gRSj7jLBXoZsw==
   dependencies:
     use-sync-external-store "^1.0.0"
 

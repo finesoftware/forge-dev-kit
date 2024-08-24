@@ -8,7 +8,7 @@
         "@emotion/core": "^10.3.1",
         "@forge/bridge": "^2.6.0",
         "react": "^17.0.2",
-        "react-sweet-state": "^2.6.5"
+        "react-sweet-state": "^2.7.2"
     },
     "scripts": {
         "prepack": "yarn gfm-prepack"
