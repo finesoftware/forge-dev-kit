@@ -6,7 +6,7 @@
     "type": "module",
     "dependencies": {
         "globby": "^13.2.0",
-        "inquirer": "^8.2.5",
+        "inquirer": "^11.1.0",
         "lodash": "^4.17.21",
         "zx": "^7.2.2"
     },
