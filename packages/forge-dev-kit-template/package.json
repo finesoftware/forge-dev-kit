@@ -5,7 +5,7 @@
   "sideEffects": false,
   "dependencies": {
     "@atlaskit/css-reset": "^6.5.2",
-    "@babel/preset-react": "^7.22.5",
+    "@babel/preset-react": "^7.25.7",
     "@emotion/core": "^10.3.1",
     "@finesoftware/forge-jira-api": "0.4.0",
     "@finesoftware/react-forge": "0.2.0",
