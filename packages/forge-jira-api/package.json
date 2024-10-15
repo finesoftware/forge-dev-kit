@@ -4,7 +4,7 @@
     "main": "src/index.tsx",
     "sideEffects": false,
     "dependencies": {
-        "@forge/bridge": "^2.6.0",
+        "@forge/bridge": "^4.1.0",
         "lodash": "^4.17.21"
     },
     "scripts": {

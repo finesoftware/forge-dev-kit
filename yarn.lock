@@ -914,12 +914,20 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@forge/bridge@^2.6.0":
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/@forge/bridge/-/bridge-2.6.0.tgz#ba83161c6a2d2139bf91dc9bcd8e491718143dc3"
-  integrity sha512-DNzRCR1UUYU7Mob0WoSGFQrxOt7akeTB+yZppxpBHNkosTnP+CXK39hWIf2huzQBZOsh7baE8oeJFcspzv+H+w==
+"@forge/bridge@^4.1.0":
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/@forge/bridge/-/bridge-4.1.0.tgz#cc74bd7642e99cfe3c5b5c4c102b19ce60ab4bc5"
+  integrity sha512-RpvTOO9h5VpASfeUfB3uUKCG3JBsQ2ZdOFSKGwPlBeRrrLvsKeGZu6OaH/6shGiwooFQqyWM21hi8KrNHz8fxg==
   dependencies:
+    "@forge/i18n" "0.0.1"
     "@types/history" "^4.7.11"
+
+"@forge/i18n@0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@forge/i18n/-/i18n-0.0.1.tgz#217beeda0ffc3013c54b5ece07dc7bf1e9d01b8b"
+  integrity sha512-F/vDUxgWF49jSZPC6KBADQzVt4AY81hkc5ns3zwIw5qyAsyoTXoKyxqG7dNdGH7jendxuoa/INkdHKdOYQsRLQ==
+  dependencies:
+    lodash "^4.17.21"
 
 "@gfm-repo/eslint-config-generator@^0.1.1":
   version "0.1.1"
