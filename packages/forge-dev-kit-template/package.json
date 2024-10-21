@@ -4,7 +4,7 @@
   "private": true,
   "sideEffects": false,
   "dependencies": {
-    "@atlaskit/css-reset": "^6.5.2",
+    "@atlaskit/css-reset": "^6.11.2",
     "@babel/preset-react": "^7.22.5",
     "@emotion/core": "^10.3.1",
     "@finesoftware/forge-jira-api": "0.4.0",
