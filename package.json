@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "@atlaskit/button": "^16.8.0",
+    "@atlaskit/button": "^20.3.0",
     "@atlaskit/css-reset": "^6.5.2",
     "@atlaskit/theme": "^12.5.4",
     "@babel/preset-react": "^7.22.5",
