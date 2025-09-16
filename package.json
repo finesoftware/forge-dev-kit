@@ -18,7 +18,7 @@
     "@types/react": "^17.0.43",
     "@types/react-dom": "^17.0.14",
     "babel-plugin-emotion": "^10.2.2",
-    "globby": "^13.2.0",
+    "globby": "^13.2.2",
     "inquirer": "^8.2.5",
     "lodash": "^4.17.21",
     "next": "^12.3.4",
